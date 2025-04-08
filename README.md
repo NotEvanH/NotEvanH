@@ -1,5 +1,5 @@
-## Hi there 👋
-# Contrary to what my GitHub username claims, my name is actually Evan H. When it comes to what I am good I don't know what to write but I am certainly interested in Web Development.
+# Hi there 👋
+## Contrary to what my GitHub username claims, my name is actually Evan H. When it comes to what I am good I don't know what to write but I am certainly interested in Web Development.
 
 # About Me:
 🔭 I am currently working on:
