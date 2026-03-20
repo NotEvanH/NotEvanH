@@ -1,5 +1,5 @@
-# Hi there 👋
-## Contrary to what my GitHub username claims, my name is actually Evan H. I am an ethernet enthusiast, however my computer is current connected via WiFi. I also enjoy web development.
+# Hallo 👋
+### Contrary to what my GitHub username claims, my name is actually Evan H. I like making websites, but I prefer breaking websites, so I do cybersecurity stuff..
 
 # About Me:
 🔭 I am currently working on:
@@ -7,7 +7,7 @@
 
 <br>
 
-🌱 I am currently learning more cybersecurity related things.
+🌱 I am currently learning more about how people are smart enough to make ROP chains.
 
 <br>
 
