@@ -1,5 +1,5 @@
 # Hallo 👋
-### Contrary to what my GitHub username claims, my name is actually Evan H. I like making websites, but I prefer breaking websites, so I do cybersecurity stuff..
+### Contrary to what my GitHub username claims, my name is actually Evan H. I like making websites, but I prefer breaking websites, so I do cybersecurity stuff.
 
 # About Me:
 🔭 I am currently working on:
